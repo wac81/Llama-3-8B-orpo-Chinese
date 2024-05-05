@@ -1,6 +1,7 @@
 ---
 library_name: peft
 base_model: meta-llama/Meta-Llama-3-8B-Instruct
+model_name: wac81/Llama-3-8B-orpo-Chinese
 ---
 
 # Model Card for Model ID
